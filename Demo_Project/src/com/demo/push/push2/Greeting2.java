@@ -6,7 +6,7 @@ public class Greeting2 {
 		
 		System.out.println("Kha se ho ");
 		
-		System.out.println("Mai kyu batao");
+		System.out.println("Mai kyu");
 
 	
 	}
