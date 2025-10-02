@@ -3,8 +3,11 @@ package com.demo.push;
 public class Hello {
 
 	
-	public static void main(String[] args) {
+	
+	public static void getData() {
 		
-		System.out.println("Hi ");
+		System.out.println("Which data");
 	}
+	
+	
 }
